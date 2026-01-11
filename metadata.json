@@ -1,0 +1,5 @@
+{
+  "name": "CoreMem AI Explorer",
+  "description": "An advanced semantic memory system that uses Gemini to extract entities, sentiment, and context from your thoughts, allowing for intelligent retrieval and AI-driven insights.",
+  "requestFramePermissions": []
+}
